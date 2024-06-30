@@ -321,6 +321,9 @@ GVAR(throwablesHash) = createHashMapFromArray [
 ["qbgrenade",3],
 ["optre_fc_plasmagrenade",3],
 ["meop_biotic_handgrenade",3],//mass effect op
+["skm_cts2",3],	//skm flashbangs pack
+["skm_cts6",3],
+["skm_cts9",3],
 ["spe_us_mk_1",3],//arma 3 creator dlc: spearhead 1944
 ["spe_1rnd_g_flgr",3],
 ["spe_1rnd_g_m17a1",3],
