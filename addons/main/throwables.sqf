@@ -548,6 +548,6 @@ GVAR(throwablesHash) = createHashMapFromArray [
 
 
 
-///////////////////for easyly update lists//////////////////////////
+///////////////////for easily update lists//////////////////////////
 ["c7_remote_mag",5]
 ];
