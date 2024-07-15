@@ -335,6 +335,7 @@ GVAR(throwablesHash) = createHashMapFromArray [
 ["tsp_flashbang_fakels",3],
 ["tsp_flashbang_m84",3],
 
+
 // 4: incendiary (include wp,napalm)
 ["ace_m14",4],
 ["rhs_mag_an_m14_th3",4],
