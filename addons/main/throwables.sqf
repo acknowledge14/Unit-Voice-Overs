@@ -330,6 +330,10 @@ GVAR(throwablesHash) = createHashMapFromArray [
 ["spe_1rnd_g_m19a1",3],
 ["spe_1rnd_g_m21a1",3],
 ["spe_1rnd_g_m51a1",3],
+["tsp_flashbang_cts",3],//Breach - Rewrite
+["tsp_flashbang_cts99",3],
+["tsp_flashbang_fakels",3],
+["tsp_flashbang_m84",3],
 
 // 4: incendiary (include wp,napalm)
 ["ace_m14",4],
